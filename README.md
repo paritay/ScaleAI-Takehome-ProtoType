@@ -29,6 +29,8 @@ To run predictions via Vertex AI, obtain an access token by running: `gcloud aut
 
 Copy the token and paste it into each Zapier Webhook step that calls a model (classification, part/type detection, severity analysis). In each step, set the Authorization header to: `Bearer <your_token_here>`
 
+Note: This Zapier workflow is shareable with collaborators via a Team plan. No additional paid account is required to view or test the prototype. See your email for access.
+
 ---
 
 ### 2️⃣ Access the Reviewer Email Inbox
