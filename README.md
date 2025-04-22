@@ -23,6 +23,9 @@ A no-code AI workflow built for an AI Product Manager take-home assignment. It u
 
 ## 🔑 Setup Instructions
 
+Here's the linke to the prototype: https://shiny-fairy-11cb54.netlify.app/home
+You can find some car crash/damage images here: https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
+
 ### 1️⃣ Enable Google AutoML Access
 
 To run predictions via Vertex AI, obtain an access token by running: `gcloud auth print-access-token` (you will need to install the google cloud SDK)
