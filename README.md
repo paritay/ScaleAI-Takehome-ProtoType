@@ -1,4 +1,4 @@
-# auto-damage-estimator-prototype
+AI Claims Automation Prototype
  A no-code AI workflow built for the Scale AI Product Manager take-home assignment. It uses Bolt.chat for user input, detects car damage with Google AutoML, estimates repair costs, and sends smart alerts via Zapier and Supabase.
 
 # 🔧 auto-damage-estimator-prototype
