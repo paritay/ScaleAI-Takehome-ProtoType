@@ -25,7 +25,7 @@ A no-code AI workflow built for an AI Product Manager take-home assignment. It u
 
 ## 🔑 Setup Instructions
 
-Here's the link to the prototype: https://shiny-fairy-11cb54.netlify.app/home
+Here's the link to the prototype (if the link doesn't work for you please let me know): https://shiny-fairy-11cb54.netlify.app/
 
 You can find some car crash/damage images here: https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
 
